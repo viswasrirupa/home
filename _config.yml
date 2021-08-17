@@ -302,3 +302,4 @@ defaults:
       share: true
     header: #doesn't seem to work
       teaser: /assets/images/portfolio-default.jpg
+   
