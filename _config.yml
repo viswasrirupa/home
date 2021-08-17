@@ -111,7 +111,7 @@ author:
   codepen          :
   github           : "ashwin4ever"
   linkedin         : "" # (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  scholar          : "user=AuQJmswAAAAJ&hl=en&oi=sra" # link to google scholar after base url
+  scholar          : "citations?user=AuQJmswAAAAJ&hl=en&oi=sra" # link to google scholar after base url
 
 
 # Reading Files
