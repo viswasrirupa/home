@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Ashwin Viswanathan"
   avatar           : "/assets/images/my_pic_filters.jpg"
-  bio              : "PhD CS | Machine Learning Researcher | Data Scientist"
+  bio              : >- "PhD CS | Machine Learning Researcher | Data Scientist"
   location         : "Stillwater , OK"
   email            :
   links:
