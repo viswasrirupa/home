@@ -283,5 +283,4 @@ defaults:
       comments: true
       share: true
     header: #doesn't seem to work
-      teaser: /assets/images/portfolio-default.jpg
-   
+      teaser: /assets/images/portfolio-default.jpg 
