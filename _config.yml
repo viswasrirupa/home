@@ -103,7 +103,7 @@ author:
   name             : "Ashwin Viswanathan"
   avatar           : "/assets/images/my_pic_filters.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD CS | ML researcher | Data Scientist<br><br>
-                     <img src='/assets/images/osu_logo.png' alt='Oklahoma State University'><br>"
+                     <br><img src='/assets/images/osu_logo.png' alt='Oklahoma State University'><br>"
   location         : "Stillwater, OK, USA"
   email            : "ashwin.kannan@okstate.edu"
   uri              :
