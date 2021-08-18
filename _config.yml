@@ -93,7 +93,7 @@ social:
   links: # An array of links to social media profiles
       - label: "Scholar"
         icon: "ai ai-google-scholar"
-        url: "https://scholar.google.com/citations?user=AuQJmswAAAAJ&hl=en&oi=sra"
+        url: "https://scholar.google.com/citations?user=AuQJmswAAAAJ&hl=en"
 
 # Analytics
 analytics:
