@@ -3,8 +3,6 @@ permalink: /publications/
 header:
   image: /assets/images/header_site.png
 ---
-# Publications
-
 **Viswanathan, K. Ashwin**, Goutam Mylavarapu, and Johnson P. Thomas. "Biologically inspired augmented memory recall model for pattern recognition." In *International Conference on Cognitive Computing*, pp. 147-154. Springer, Cham, 2018
 
 **Viswanathan, K. Ashwin**, Goutam Mylavarapu, Kun Chen, and Johnson P. Thomas. "A Study of Prefrontal Cortex Task Switching Using Spiking Neural Networks." In 2020 12th *International Conference on Advanced Computational Intelligence (ICACI)*, pp. 199-206. IEEE, 2020.
