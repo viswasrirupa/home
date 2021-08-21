@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "mint" # "air" , "default", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ashwin Viswanathan"
+title                    : "Madhumitha Ganesan"
 title_separator          : "-"
-name                     : "Ashwin Viswanathan" #####Doesn't change anything?
+name                     : "Madhumitha Ganesan" #####Doesn't change anything?
 description              : "Data Science Projects" #####Doesn't change anything?
 url                      : "https://ashwin4ever.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
