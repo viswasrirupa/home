@@ -22,7 +22,7 @@ name                     : "Madhumitha Ganesan" #####Doesn't change anything?
 description              : "Data Science Projects" #####Doesn't change anything?
 url                      : "https://gmadhu89.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ashwin4ever/ashwin4ever.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "gmadhu89/gmadhu89.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -100,17 +100,17 @@ analytics:
 
 # Site Author - Side Bar
 author:
-  name             : "Ashwin Viswanathan"
+  name             : "Madhumitha Ganesan"
   avatar           : "/assets/images/my_pic_filters.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. CS candidate at Oklahoma State University with research interests in Machine Learning and building bio-physical models of neurons using Spiking Neural Nets"
-  location         : "Stillwater, OK, USA"
-  email            : "ashwin.kannan@okstate.edu"
+  bio              : "MS Computational Data Analytics Candidate @ Georgia Tech aspiring for Machine Learning / Data Science positions. Expertise in Data Engineering / Big Data / ETL"
+  location         : "Atlanta, GA, USA"
+  email            : "mganesan7@gatech.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
-  github           : "ashwin4ever"
-  linkedin         : "ashwinviswanathan88"
+  github           : "gmadhu89"
+  linkedin         : "mganesan24"
   scholar          : "citations?user=AuQJmswAAAAJ&hl=en" # link to google scholar after base url
   #googlescholar    : "https://scholar.google.com/citations?user=AuQJmswAAAAJ&hl=en"
 
