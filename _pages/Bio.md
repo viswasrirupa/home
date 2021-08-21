@@ -2,7 +2,7 @@
 title: "Bio"
 permalink: /bio/
 header:
-  image: /assets/images/header_site.png
+  image: /assets/images/gtech2.jpg
 ---
 
 Before my doctoral studies, I worked as a Business Intelligence and ETL (Extract, Transform and Load) developer at a US based consulting firm for 5 years. During this period, I developed and deployed analytical data warehousing models to facilitate efficient and insightful generation and retrieval of data. During my Ph.D. I have interned as a Data Scientist for Dell and Koch. Aside from my professional and academic interests, I also dabble at game programming using Unity and [Processing](https://processing.org/). My other interests include painting (traditional and digital), playing the keyboard, and chess.
