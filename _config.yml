@@ -101,7 +101,7 @@ analytics:
 # Site Author - Side Bar
 author:
   name             : "Madhumitha Ganesan"
-  avatar           : "/assets/images/my_pic_filters.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/my_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MS Computational Data Analytics Candidate @ Georgia Tech aspiring for Machine Learning / Data Science positions. Expertise in Data Engineering / Big Data / ETL"
   location         : "Atlanta, GA, USA"
   email            : "mganesan7@gatech.edu"
