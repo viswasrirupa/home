@@ -1,6 +1,7 @@
 ---
 title: "Bio"
 permalink: /bio/
+classes: wide
 header:
   image: /assets/images/welcome.jpg
 ---
