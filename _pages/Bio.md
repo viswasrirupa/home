@@ -25,10 +25,11 @@ Before my gradute program, I worked as a Senior Big Data Engineer at a technolog
 - **Machine Learning Libraries**: scikit-learn, numpy, pandas, TensorFlow, PyTorch, opencv
 - **Statistics**: Data analysis, data cleansing, feature engineering, forecasting, descriptive and inferential statistical analysis
 - **Programming**: Python, R, PySpark
-- **Database Programming**: SQL, PL/SQL, T-SQL, Sybase
+- **Database**: SQL, PL/SQL, T-SQL, Sybase, NoSQL, Mongo DB
 - **Web Programming**: HTML, D3.js
 - **Big Data**: Apache Spark, Hadoop, Kafka, Hive, Sqoop
 - **ETL / Business Intelligence**: IBM DataStage, Pentaho Data Integration, Microstratgey, SQL Server Reporting Services, Tableau
 - **Product Management Framework / Tools**: Agile/Scrum, Waterfall, Version One, Jira
 - **Other**: Unix, Shell Scripting, Git
+- **Cloud**: Snowflake, AWS
 
