@@ -2,7 +2,9 @@
 main:
    - title: "Home"
      url: /
-   - title: "Bio"
+   - title: "About"
+     url: /
+   - title: "test"
      url: /
    - title: "Machine Learning"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
