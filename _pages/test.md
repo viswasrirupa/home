@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_image: /assets/images/background1.jpg
 excerpt: >
-  This page showcases some Machine learning / modeling projects done on real-world datasets. <br />
+  This page showcases some Machine learning / modeling projects done on real-world datasets.
 feature_row:
   - image_path: /assets/images/traffic-signs.jpg
     alt: "customizable"
