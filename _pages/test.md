@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /test/
-hidden: true
+hidden: false
 header:
   overlay_image: /assets/images/background1.jpg
 excerpt: >
@@ -12,8 +12,6 @@ feature_row:
     title: "Traffic Sign Image Classification"
     excerpt: "A Multi-class classification of traffic sign images using various ML algorithms aimed at categorization of high impact classes with an accuracy of 93%"
     url: "/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
