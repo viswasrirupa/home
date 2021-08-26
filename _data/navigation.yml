@@ -3,7 +3,7 @@ main:
    - title: "Home"
      url: /
    - title: "About"
-     url: /
+     url: /bio
    - title: "test"
      url: /
    - title: "Machine Learning"
