@@ -15,9 +15,7 @@ feature_row:
   - image_path: /assets/images/traffic-signs.jpg
     alt: "customizable"
     title: "Traffic Sign Image Classification"
-    excerpt: >
-    A Multi-class classification of traffic sign images using various ML algorithms aimed at categorization of high impact classes with an accuracy of 93%.<br />
-    <small><a href="https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/traffic-sign-classification">Learn More</a></small>
+    excerpt: "A Multi-class classification of traffic sign images using various ML algorithms aimed at categorization of high impact classes with an accuracy of 93%"
     url: "/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
