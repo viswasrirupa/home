@@ -3,7 +3,7 @@ main:
    - title: "Home"
      url: /
    - title: "Bio"
-     url: /bio/
+     url: /
    - title: "Machine Learning"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
    - title: "Deep Learning"
