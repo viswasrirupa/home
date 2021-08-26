@@ -12,7 +12,6 @@ feature_row:
     alt: "customizable"
     title: "Traffic Sign Image Classification"
     excerpt: "A Multi-class classification of traffic sign images using various ML algorithms aimed at categorization of high impact classes with an accuracy of 93%"
-    url: "/"
 ---
 
 {% include feature_row %}
