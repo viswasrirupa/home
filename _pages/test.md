@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: "Machine Learning Projects"
 permalink: /test/
 hidden: false
 header:
