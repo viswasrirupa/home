@@ -16,9 +16,6 @@ feature_row:
     url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/traffic-sign-classification"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    url: "https://gmadhu89.github.io/force-directed-graph-d3/"
-    btn_class: "btn-2"
-    btn_label: "Viz"
 
 ---
 
