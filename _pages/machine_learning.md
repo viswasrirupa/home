@@ -35,6 +35,24 @@ feature_row2:
     url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/face-recognition"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/image-compression.jpg
+    alt: "customizable"
+    title: "Image Compression"
+    excerpt: "Performing image compression of multiple image sizes using K-means clustering algorithm implemented from scratch <br><br>
+    *Toolkit:  Python, Clustering * <br>"
+    url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/image-compression-clustering"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/spectral-clustering.jpg
+    alt: "customizable"
+    title: "Spectral Clustering"
+    excerpt: "Identifying clusters by building a network of football games and team using Spectral clustering algorithm. <br><br>
+    *Toolkit:  Python, Spectral Clustering, scikit-learn * <br>
+   [Spectral Clustering for two rings](https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/spectral-clustering-tworings)"
+    url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/spectral-clustering"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
 
 
 ---
