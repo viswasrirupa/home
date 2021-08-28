@@ -27,6 +27,17 @@ feature_row2:
     url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/traffic-sign-classification"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/traffic-signs.jpg
+    alt: "customizable"
+    title: "Test row3"
+    excerpt: "Test row \
+    Toolkit:  Classification, Python, scikit-learn, EDA, PCA \
+    Another Line Test \ 
+    [Link to Visualization](https://gmadhu89.github.io/Choropleth/)"
+    url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/traffic-sign-classification"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
 ---
 
 {% include feature_row %}
