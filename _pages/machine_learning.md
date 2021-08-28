@@ -27,6 +27,15 @@ feature_row2:
     url: "https://github.com/gmadhu89/academic-projects/tree/main/data-visualization-project"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/face-recognition.jpg
+    alt: "customizable"
+    title: "Face Recognition using PCA"
+    excerpt: "Face recognition of subjects by computing top eigen faces from images shot with different expressions. <br><br>
+    *Toolkit:  Python, scikit-learn, PCA, Classification* <br>"
+    url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/face-recognition"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
 
 ---
 {% include feature_row id="feature_row2" type="left" %}
