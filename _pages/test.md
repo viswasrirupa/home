@@ -21,8 +21,9 @@ feature_row2:
   - image_path: /assets/images/video-game.jpg
     alt: "customizable"
     title: "Predicting Game success"
-    excerpt: "Applying machine learning models to predict new games’ success rate in the current market, along with sentiment analysis of user reviews represented in an interactive visualization. <br>
-    *Toolkit:  Regression, Python, Sentiment Analysis, HTML* <br>"
+    excerpt: "Applying machine learning models to predict new games’ success rate in the current market, along with sentiment analysis of user reviews represented in an interactive visualization. <br><br>
+    *Toolkit:  Regression, Python, Sentiment Analysis, HTML* <br>
+    [Quick View Project Poster]("https://github.com/gmadhu89/academic-projects/blob/main/data-visualization-project/poster/")"
     url: "https://github.com/gmadhu89/academic-projects/tree/main/data-visualization-project"
     btn_class: "btn--primary"
     btn_label: "Learn more"
