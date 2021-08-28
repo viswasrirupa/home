@@ -4,8 +4,6 @@ title: "Machine Learning Projects"
 permalink: /test/
 hidden: false
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: /assets/images/bkg2.jpg
 excerpt: >
   Machine learning / modeling projects applied on real-world datasets.
