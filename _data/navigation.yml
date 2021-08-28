@@ -2,15 +2,12 @@
 main:
    - title: "Home"
      url: /
-   - title: "About"
+   - title: "Bio"
      url: /bio/
-   - title: "test"
-     url: /test/
    - title: "Machine Learning"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Deep Learning"
-  #   url: /year-archive/
+     url: /test/
    - title: "Visualizations"
+     url: /vis/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

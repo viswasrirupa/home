@@ -1,5 +1,5 @@
 ---
-title: "Bio"
+title: "About Me"
 permalink: /bio/
 author_profile: true
 classes: wide
