@@ -95,7 +95,7 @@ feature_row2:
   - image_path: /assets/images/regression.jpg
     alt: "customizable"
     title: "Analysis of Mental Health in Tech Industry"
-    excerpt: Providing data driven solutions by evaluating prevalence of mental disorders in IT workspace and answering research questions of interest. <br><br>
+    excerpt: "Providing data driven solutions by evaluating prevalence of mental disorders in IT workspace and answering research questions of interest. <br><br>
     *Toolkit:  Python, EDA, Logistic Regression, Poisson Regression, Random Forest* <br>"
     url: "https://github.com/gmadhu89/academic-projects/tree/main/Modeling/mental-health-tech-analysis"
     btn_class: "btn--primary"
