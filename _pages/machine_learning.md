@@ -84,7 +84,10 @@ feature_row2:
    [Analysis on Leaf data set](https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/pca-leaf-data) <br>
    [Food consumption patterns in European Countries](https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/pca-food-consumption-europeancountries) <br>
    [PCA on hand-written digits images](https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/pca-digits)"
-  - image_path: /assets/images/pca.jpg
+    url: "https://github.com/gmadhu89/academic-projects/tree/main/Modeling/pca"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/regularization.jpg
     alt: "customizable"
     title: "Regularization"
     excerpt: "Applying Regularization techniques on a Housing dataset. <br><br>
