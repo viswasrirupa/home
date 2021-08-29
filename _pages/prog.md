@@ -13,7 +13,7 @@ feature_row2:
   - image_path: /assets/images/tic-tac-toe.jpg
     alt: "customizable"
     title: "Tic-Tac-Toe"
-    excerpt: Want to play a game of tic-tac-toe ? Here is an implementation using Python". <br><br>
+    excerpt: "Want to play a game of tic-tac-toe ? Here is an implementation using Python". <br><br>
     *Toolkit:  Python* <br>"
     url: "https://github.com/gmadhu89/python-learning/blob/master/TIC%20TAC%20TOE.ipynb"
     btn_class: "btn--primary"
