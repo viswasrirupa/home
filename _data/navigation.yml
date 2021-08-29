@@ -5,9 +5,11 @@ main:
    - title: "Bio"
      url: /bio/
    - title: "Machine Learning"
-     url: /test/
+     url: /ML/
    - title: "Visualizations"
      url: /vis/
+   - title: "Programming"
+     url: /prog/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
