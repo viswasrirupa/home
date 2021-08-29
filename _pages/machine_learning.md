@@ -52,6 +52,33 @@ feature_row2:
     url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/spectral-clustering"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/comparing-classifiers.jpg
+    alt: "customizable"
+    title: "Comparing Classifiers"
+    excerpt: "A comparison of a several classifiers in scikit-learn on synthetic datasets to illustrate the nature of decision boundaries of different classifiers. <br><br>
+    *Toolkit:  Python, Classification, scikit-learn* <br>"
+    url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/comparing-classifiers"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/isomap.jpg
+    alt: "customizable"
+    title: "ISOMAP for Dimensionality reduction"
+    excerpt: "Implementing the ISOMAP algorithm to obtain a two-dimensional embedding for images corresponding to different poses of the same person and comparing its results with PCA. <br><br>
+    *Toolkit:  Python, Non-linear Dimensionality reduction* <br>"
+    url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/isomap"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/giphy.gif
+    alt: "customizable"
+    title: "ISOMAP for Dimensionality reduction"
+    excerpt: "Implementing the ISOMAP algorithm to obtain a two-dimensional embedding for images corresponding to different poses of the same person and comparing its results with PCA. <br><br>
+    *Toolkit:  Python, Non-linear Dimensionality reduction* <br>"
+    url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/isomap"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+
+
 
 
 
