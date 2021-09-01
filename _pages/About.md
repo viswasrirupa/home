@@ -24,14 +24,14 @@ Before my graduate program, I worked as a Senior Big Data Engineer at a technolo
   *Georgia Institute of Technology*
 
 ## Skills
-- **Machine Learning Libraries**: scikit-learn, numpy, pandas, TensorFlow, PyTorch, opencv
+- **Machine Learning Libraries**: scikit-learn, numpy, pandas, TensorFlow, PyTorch, opencv, Random Forest, XGBoost, SVM, KNN, Naïve Bayes, Logistic / Linear Regression
 - **Statistics**: Data analysis, data cleansing, feature engineering, forecasting, descriptive and inferential statistical analysis
 - **Programming**: Python, R, PySpark
 - **Database**: SQL, PL/SQL, T-SQL, Sybase, NoSQL, Mongo DB
 - **Web Programming**: HTML, D3.js
-- **Big Data**: Apache Spark, Hadoop, Kafka, Hive, Sqoop
+- **Big Data**: Apache Spark, Hadoop, Kafka, Hive, Sqoop, Data Modeling
 - **ETL / Business Intelligence**: IBM DataStage, Pentaho Data Integration, Microstratgey, SQL Server Reporting Services, Tableau
 - **Product Management Framework / Tools**: Agile/Scrum, Waterfall, Version One, Jira
-- **Other**: Unix, Shell Scripting, Git
+- **Other**: Unix, Shell Scripting, Git, Subversion
 - **Cloud**: Snowflake, AWS
 
