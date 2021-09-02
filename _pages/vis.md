@@ -23,8 +23,8 @@ feature_row2:
     title: "Choropleth Visualization"
     excerpt: "Interactive Map visualization of ratings of board games specific to each region. <br><br>
     *Toolkit:  HTML, D3.js* <br>
-   [Curious to Visualize ??](https://gmadhu89.github.io/Choropleth/)"
-    url: "https://github.com/gmadhu89/Choropleth"
+   [Curious to Visualize ?](https://gmadhu89.github.io/Map_Vis/)"
+    url: "https://github.com/gmadhu89/Map_Vis"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/argo-lite.jpg
@@ -41,7 +41,7 @@ feature_row2:
     title: "Force directed graph"
     excerpt: "A network visualization identifying similarities between board games using force-directed simulations. <br><br>
     *Toolkit:  D3.js* <br>
-   [Curious to Visualize ??](https://gmadhu89.github.io/force-directed-graph-d3/)"
+   [Curious to Visualize ?](https://gmadhu89.github.io/force-directed-graph-d3/)"
     url: "https://github.com/gmadhu89/force-directed-graph-d3"
     btn_class: "btn--primary"
     btn_label: "Learn more"
