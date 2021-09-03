@@ -33,7 +33,7 @@ feature_row2:
     excerpt: "Building a network graph of co-actors and visualizing them as a graph. <br><br>
     *Toolkit:  Argo-lite, Python* <br>
    [Visualize it yourself](https://poloclub.github.io/argo-graph-lite/#fb015d5e-4934-4f3e-83be-73e899e9cdd1)"
-    url: "https://github.com/gmadhu89/academic-projects/tree/main/argolite-network-visualization"
+    url: "https://github.com/gmadhu89/academic-projects/tree/main/network-visualization"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/force-directed-graph.jpg
