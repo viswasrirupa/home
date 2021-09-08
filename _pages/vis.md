@@ -14,7 +14,7 @@ feature_row2:
     alt: "customizable"
     title: "Big Data Pipeline for Covid 19 Analysis"
     excerpt: "Implementing an end-to-end data pipeline on AWS using real-time streaming, Pyspark and HDFS to analyse trends and impacts with COVID-19 dataset. <br><br>
-    *Toolkit:  HDFS, Python, AWS, Kafka, NiFi, Tableau* <br>"
+    *Toolkit:  HDFS, PySpark, AWS, Kafka, NiFi, Tableau* <br>"
     url: "https://github.com/gmadhu89/covid19-analysis-pyspark"
     btn_class: "btn--primary"
     btn_label: "Learn more"
