@@ -13,8 +13,8 @@ I am currently a Graduate student of the MS Analytics program at Georgia Institu
 This website showcases some projects I scripted to tackle the real-world problems in my aforementioned interests.  
 
 
-Navigation:  
-Bio: My background and skills  
-Machine Learning: Projects implemented using Machine learning techniques  
-Visualizations: Projects on Data Visualizations  
-Programming: More programming work
+**Navigation:**  
+**Bio:** My background and skills  
+**Machine Learning:** Projects implemented using Machine learning techniques  
+**Visualizations:** Projects on Data Visualizations  
+**Programming:** Passion projects
