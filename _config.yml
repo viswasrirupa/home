@@ -101,7 +101,7 @@ analytics:
 # Site Author - Side Bar
 author:
   name             : "Teja Juttu"
-  avatar           : "/assets/images/my_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/teja.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MS Computational Data Analytics @ Georgia Tech aspiring for Machine Learning / Data Science positions."
   location         : "Atlanta, GA, USA"
   email            : "teja.j@gatech.edu"
