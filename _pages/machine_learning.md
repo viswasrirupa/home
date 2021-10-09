@@ -43,7 +43,7 @@ feature_row2:
     url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/image-compression-clustering"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/spectral-clustering.jpg
+  - image_path: /assets/images/spectral-clustering2.jpg
     alt: "customizable"
     title: "Spectral Clustering"
     excerpt: "Experimenting Spectral clustering algorithm with a synthetic dataset. <br><br>
