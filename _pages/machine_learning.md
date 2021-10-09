@@ -43,7 +43,7 @@ feature_row2:
     url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/image-compression-clustering"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/isomap.jpg
+  - image_path: /assets/images/spectral-clustering.jpg
     alt: "customizable"
     title: "Spectral Clustering"
     excerpt: "Experimenting Spectral clustering algorithm with a synthetic dataset. <br><br>
@@ -60,7 +60,7 @@ feature_row2:
     url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/comparing-classifiers"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/spectral-clustering2.jpg
+  - image_path: /assets/images/isomap.jpg
     alt: "customizable"
     title: "ISOMAP for Dimensionality reduction"
     excerpt: "Implementing the ISOMAP algorithm to obtain a two-dimensional embedding for images corresponding to different poses of the same person and comparing its results with PCA. <br><br>
