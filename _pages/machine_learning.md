@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/bkg2.jpg
+  overlay_image: /assets/images/dataML.jpg
 excerpt: >
   Machine learning / modeling projects applied on real-world datasets.
 feature_row2:
