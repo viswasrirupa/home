@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/visbk2.jpg
+  overlay_image: /assets/images/space.jpg
 excerpt: >
   Some cool data visualizations using D3, Tableau / Big Data Analysis.
 feature_row2:
