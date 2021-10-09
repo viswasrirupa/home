@@ -4,7 +4,7 @@ title: "Welcome"
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/welcome.jpg
+  image: /assets/images/GT.jpg
 ---
 
 
