@@ -12,17 +12,17 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "aqua" # "air" , "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air" , "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Teja Juttu"
 title_separator          : "-"
-name                     : "Madhumitha Ganesan" #####Doesn't change anything?
+name                     : "Teja Juttu" #####Doesn't change anything?
 description              : "Data Science Projects" #####Doesn't change anything?
-url                      : "https://gmadhu89.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://tejajuttu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "gmadhu89/gmadhu89.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "gmadhu89/tejajuttu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -100,18 +100,18 @@ analytics:
 
 # Site Author - Side Bar
 author:
-  name             : "Madhumitha Ganesan"
+  name             : "Teja Juttu"
   avatar           : "/assets/images/my_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MS Computational Data Analytics Candidate @ Georgia Tech aspiring for Machine Learning / Data Science positions. Expertise in Data Engineering / Big Data / ETL"
+  bio              : "MS Computational Data Analytics @ Georgia Tech aspiring for Machine Learning / Data Science positions."
   location         : "Atlanta, GA, USA"
-  email            : "mganesan7@gatech.edu"
+  email            : "teja.j@gatech.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
-  github           : "gmadhu89"
-  linkedin         : "mganesan24"
-  Resume           : "https://gmadhu89.github.io/resume/"
+  github           : "tejajuttu"
+  linkedin         : "shanmukhateja"
+  Resume           : "https://tejajuttu.github.io/resume/"
   scholar          : "citations?user=AuQJmswAAAAJ&hl=en" # link to google scholar after base url
   #googlescholar    : "https://scholar.google.com/citations?user=AuQJmswAAAAJ&hl=en"
 
