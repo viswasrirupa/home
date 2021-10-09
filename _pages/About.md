@@ -4,7 +4,7 @@ permalink: /bio/
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/bio.jpg
+  image: /assets/images/tech.jpg
 ---
 
 Before my graduate program, I worked as a Senior Big Data Engineer at a technology consulting firm for 10 years, with 3.5 years working onsite with my client headquartered at Chicago, Illinois. During this stint, I have designed, led and implemented Business Intelligence Solutions in building an enterprise data warehouse to facilitate insightful generation, retrieval and visualization of data. I have applied a wide range of Data Integration/  visualization tools on relational databases and distributed file systems that has inculcated a flexible mindset in me towards new tools and technologies. During my graduate program, I was involved in a Capstone project to provide Machine learning solutions to a leading furniture and interior space solutions company. My other interests include painting, paper quilling and singing Indian classical music. 
