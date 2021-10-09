@@ -95,13 +95,5 @@ feature_row2:
     url: "https://github.com/gmadhu89/academic-projects/tree/main/Machine-Learning/ridge-lasso-regression"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/regression.jpg
-    alt: "customizable"
-    title: "Analysis of Mental Health in Tech Industry"
-    excerpt: "Providing data driven solutions by evaluating prevalence of mental disorders in IT workspace and answering research questions of interest. <br><br>
-    *Toolkit:  Python, EDA, Logistic Regression, Poisson Regression, Random Forest* <br>"
-    url: "https://github.com/gmadhu89/academic-projects/tree/main/Modeling/mental-health-tech-analysis"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
 ---
 {% include feature_row id="feature_row2" type="left" %}
