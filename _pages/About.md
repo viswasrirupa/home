@@ -20,7 +20,7 @@ My other interests include adventure activites like kayaking, caving, biking and
 
 - **Indian Institue of Technology (IIT) Madras** (2013 - 2017)   
   *B.E. Engineering*
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/1200px-Georgia_Tech_Yellow_Jackets_logo.svg.png" width="50" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png" width="45" height="45">
 
   
 ## Experience
