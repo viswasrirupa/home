@@ -10,11 +10,11 @@ header:
 I was a Management Consultant with EY (PPP strategy) for 1.5 years and a Business Analyst with American Express (prescriptive digital analytics) for 2 years. 
 During these stint, I designed, led and implemented Project Finace solutions - PPP projects in public health. Prescribed data driven digital marketing strategies across the globe. Worked with governments and teams across India, Germany, Austria, Italy, Kenya, Cambodia and USA. 
 
-During my graduate program, I furthered my skillset with advanced data science techniques including Deep Learning, Machine learning, design of experiments etc to name a few. I totally fell in love with programming, statistics and innovation with technology. 
+During my graduate program, I furthered my skillset with advanced data science techniques including Deep Learning, Machine learning, design of experiments etc to name a few. Before i realised, I fell in love with programming, statistics and grew passion towards the tech innovations. 
 My other interests include adventure activites like kayaking, caving, biking and strategy games like dota, chess and 100's of card games. 
 
 ## Education
-- **Georgia Institute of Technology** (2021 - 2022)   ![####GT](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/1200px-Georgia_Tech_Yellow_Jackets_logo.svg.png)
+- **Georgia Institute of Technology** (2021 - 2022)   ![####GT](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/1200px-Georgia_Tech_Yellow_Jackets_logo.svg.png){:height="50%" width="50%"}
   *MS. Analytics (Double Specialization: Computational Data Analytics + Business Analytics)*
 - **Indian Institue of Technology (IIT) Madras** (2013 - 2017)   
   *B.E. Civil Engineering*  
