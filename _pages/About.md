@@ -7,7 +7,9 @@ header:
   image: /assets/images/tech.jpg
 ---
 
-Before my graduate program, I worked as a Management Consultant with at EY for 1.5 years and as a Business Analyst with American Express on prescriptive Digital Analytics. During these stint, I have designed, led and implemented Project Finace Solutions like PPP project in public health. Prescribed data analytics derived digital marketing strategies across the globe. Worked with governments and teams across India, Germany, Austria, Italy, Kenya, Cambodia and USA. 
+I was a Management Consultant with EY (PPP strategy) for 1.5 years and a Business Analyst with American Express (prescriptive digital analytics) for 2 years. 
+During these stint, I designed, led and implemented Project Finace solutions - PPP projects in public health. Prescribed data driven digital marketing strategies across the globe. Worked with governments and teams across India, Germany, Austria, Italy, Kenya, Cambodia and USA. 
+
 During my graduate program, I furthered my skillset with advanced data science techniques including Deep Learning, Machine learning, design of experiments etc to name a few. I totally fell in love with programming, statistics and innovation with technology. 
 My other interests include adventure activites like kayaking, caving, biking and strategy games like dota, chess and 100's of card games. 
 
