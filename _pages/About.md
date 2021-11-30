@@ -14,12 +14,12 @@ During my graduate program, I furthered my skillset with advanced data science t
 My other interests include adventure activites like kayaking, caving, biking and strategy games like dota, chess and 100's of card games. 
 
 ## Education
-- **Georgia Institute of Technology** (2021 - 2022)
-  *MS. Analytics (Double Specialization: Computational Data Analytics + Business Analytics)* 
+- **Georgia Institute of Technology** (2021 - 2022).   
+  - *MS. Analytics (Double Specialization: Computational Data Analytics + Business Analytics)* 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/1200px-Georgia_Tech_Yellow_Jackets_logo.svg.png" width="50" height="40">
 
 - **Indian Institue of Technology (IIT) Madras** (2013 - 2017)   
-  *B.E. Engineering*
+  -  *B.E. Engineering*
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png" width="45" height="45">
 
   
