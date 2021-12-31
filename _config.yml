@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air" , "default", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Teja Juttu"
+title                    : "Shanmukha Teja Juttu"
 title_separator          : "-"
 name                     : "Teja Juttu" #####Doesn't change anything?
 description              : "Data Science Projects" #####Doesn't change anything?
@@ -111,7 +111,7 @@ author:
   codepen          :
   github           : "tejajuttu"
   linkedin         : "shanmukhateja"
-  Resume           : "https://gtvault-my.sharepoint.com/:b:/g/personal/sjuttu3_gatech_edu/EWNmnB4UyARBrAiJhlcqSpABgT46pEOWqjFK0ZBTNvApkA?e=UJt4Oe"
+  Resume           : "https://drive.google.com/file/d/1Fwl5nFzcuwlkonG0gyiii2PbHlP0_lMs/view?usp=sharing"
   scholar          : #"citations?user=AuQJmswAAAAJ&hl=en" # link to google scholar after base url
   #googlescholar    : 
 
