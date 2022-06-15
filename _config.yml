@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air" , "default", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shanmukha Teja Juttu"
+title                    : "Rupa Anne"
 title_separator          : "-"
-name                     : "Teja Juttu" #####Doesn't change anything?
-description              : "Data Science Projects" #####Doesn't change anything?
-url                      : "https://tejajuttu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Viswa Sri Rupa Anne" #####Doesn't change anything?
+description              : "Research and publications" #####Doesn't change anything?
+url                      : "https://viswasrirupa.github.io/home" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gmadhu89/tejajuttu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -100,17 +100,17 @@ analytics:
 
 # Site Author - Side Bar
 author:
-  name             : "Teja Juttu"
+  name             : "Viswa Sri Rupa Anne"
   avatar           : "/assets/images/tejabw.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MS Computational Data Analytics @ Georgia Tech aspiring for Machine Learning / Data Science positions."
+  bio              : "PhD Student @ Georgia Tech"
   location         : "Atlanta, GA, USA"
-  email            : "teja.j@gatech.edu"
+  email            : "vanne3@gatech.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
-  github           : "tejajuttu"
-  linkedin         : "shanmukhateja"
+  github           : "viswasrirupa"
+  linkedin         : "viswasrirupaanne"
   Resume           : "https://drive.google.com/file/d/1Fwl5nFzcuwlkonG0gyiii2PbHlP0_lMs/view?usp=sharing"
   scholar          : #"citations?user=AuQJmswAAAAJ&hl=en" # link to google scholar after base url
   #googlescholar    : 
