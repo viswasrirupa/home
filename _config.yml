@@ -101,7 +101,7 @@ analytics:
 # Site Author - Side Bar
 author:
   name             : "Viswa Sri Rupa Anne"
-  avatar           : "/assets/images/tejabw.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/rupa.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student @ Georgia Tech"
   location         : "Atlanta, GA, USA"
   email            : "vanne3@gatech.edu"
