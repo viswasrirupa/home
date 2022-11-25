@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Hello There!"
 author_profile: true
 classes: wide
 header:
@@ -8,14 +8,12 @@ header:
 ---
 
 
-I am a Graduate student pursuing MS in Data Analytics at Georgia Institute of Technology double specializing in Computational Data Analytics and Business Analytics.
-My primary interests are in the fields of Data science, product analytics, predictive analytical modeling, Machine Learning and in fact, everything about data.  
+I am a PhD Student in the Autonomous and Connected Transportation Lab at Georgia Institute of Technology. My research comprises of self driving cars, decentralized computing, machine learning, human-computer interaction.
 
+**My prior life**
+Prior to starting my PhD, I got my Masters degree from Georgia Tech in Spring 2019. During my masters, I worked with Dr. Alex Samaylov in the Aerospace, Transportation and Advanced Systems Lab at Georgia Tech Research Institute. 
 
-> "Do we settle for the world as it is, or do we work for the world as it should be?" — Barack Obama
-
-
-This website showcases some projects I scripted to tackle the real-world problems.  
+Before I moved to the United States, I went to Indian Institute of Technology Madras (IITM) where I did my Bachelors in Civil Engineering. As an undergrad, I did some research in mixed flow traffic. 
 
 **Navigation:**  
 **Bio:** My background and skills  
